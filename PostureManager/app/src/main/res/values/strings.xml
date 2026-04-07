@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">坐姿管理</string>
+    <string name="status_normal">坐姿正常</string>
+    <string name="status_warning">请坐好</string>
+    <string name="posture_tip">请坐好</string>
+    <string name="camera_permission_required">需要相机权限才能检测坐姿</string>
+    <string name="detection_angle_head">头部前倾角度</string>
+    <string name="detection_angle_spine">脊柱弯曲角度</string>
+    <string name="detection_angle_shoulder">双肩水平度</string>
+</resources>
